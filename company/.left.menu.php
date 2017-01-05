@@ -22,8 +22,8 @@ $aMenuLinks = Array(
 		"" 
 	),
 	Array(
-		"История", 
-		"history.php", 
+		"История компании",
+		"history.php",
 		Array(), 
 		Array(), 
 		"" 
