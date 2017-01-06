@@ -1,8 +1,9 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetPageProperty("TITLE", "А вот они Условия..");
-$APPLICATION->SetTitle("Условия партнерства");
-?><img width="300" alt="will-smith.jpg" src="/upload/medialibrary/acb/acbcff02c27838ce49231fcd2b82fded.jpg" height="169" title="will-smith.jpg">Приложение № 4
+//$APPLICATION->SetPageProperty("TITLE", "Условия партнерства"); //на вкладке браузера, если здесь не задано, берет из .section.php
+$APPLICATION->SetTitle("Условия сотрудничества"); //заголовок на страницеы
+?><img width="300" alt="will-smith.jpg" src="/upload/medialibrary/acb/acbcff02c27838ce49231fcd2b82fded.jpg" height="169" title="will-smith.jpg">
+	<p>Приложение № 4</p>
 <p align="center">
  <b>ПЕРЕЧЕНЬ</b>
 </p>

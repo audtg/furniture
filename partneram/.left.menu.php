@@ -1,15 +1,29 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"Партнерство",
+		"Условия", 
 		"./", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Прайсы",
-		"prices.php",
+		"Расписание мероприятий", 
+		"/partneram/raspisanie-meropriyatiy/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Как стать партнером", 
+		"/partneram/kak-stat-partnerom/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Прайс-листы", 
+		"/partneram/prays-listy/", 
 		Array(), 
 		Array(), 
 		"" 

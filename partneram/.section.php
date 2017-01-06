@@ -1,8 +1,8 @@
 <?
 $sSectionName = "Партнерам";
-$arDirProperties = Array(
+$arDirProperties = array(
    "description" => "Партнерская программа",
-   "keywords" => "партнер, программа",
+   "keywords" => "партнер, программа, скидка, распродажа",
    "title" => "Партнерам"
 );
 ?>
