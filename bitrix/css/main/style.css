@@ -1,0 +1,26 @@
+@font-face {
+    font-family: YanoneKaffeesatz;
+    src: url('/bitrix/fonts/yanone-kaffeesatz/YanoneKaffeesatz-Regular.otf');
+    font-weight:400;
+}
+
+@font-face {
+    font-family: Bebas;
+    src: url('/bitrix/fonts/Bebas/BEBAS___.ttf');
+    font-weight:400;
+}
+
+rect{
+    fill: orange;
+    fill-opacity: .80;
+    stroke: black;
+    stroke-opacity: 0.5;
+    stroke-width: 3;
+}
+
+text{
+    text-anchor: middle;
+    font-family: YanoneKaffeesatz, Arial;
+    font-size: 8px;
+    font-weight: 700;
+}
