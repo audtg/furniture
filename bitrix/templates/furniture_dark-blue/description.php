@@ -1,4 +1,8 @@
-<?$arTemplate = Array(
-	"NAME"=>GetMessage('CFST_TEMPLATE_NAME'), 
-	"DESCRIPTION"=>GetMessage('CFST_TEMPLATE_DESC')
-);?>
+<?
+$arTemplate = array (
+  'NAME' => 'Fixed',
+  'DESCRIPTION' => 'Light and clear fixed-width template.',
+  'SORT' => '',
+  'TYPE' => '',
+);
+?>
