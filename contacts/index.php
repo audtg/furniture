@@ -54,4 +54,6 @@ $APPLICATION->SetTitle("Контакты");
 	false
 );?></p>
 
+	<a href="get_csv.php" type="button">csv</a>
+
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
