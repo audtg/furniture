@@ -29,6 +29,6 @@ define("SHORT_INSTALL", true);
 define("BX_UTF", true);
 
 //Bitrix Env replace()
-// define("BX_CRONTAB_SUPPORT", true);
+define("BX_CRONTAB_SUPPORT", true);
 ///Bitrix Env replace()
 ?>
